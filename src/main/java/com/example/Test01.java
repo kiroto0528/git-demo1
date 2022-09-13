@@ -6,5 +6,7 @@ public class Test01 {
         System.out.println("ee");
         System.out.println("rrr");
         System.out.println("rrr");
+        System.out.println("占比");
+        System.out.println("push test");
     }
 }
